@@ -1,8 +1,9 @@
 # Social_Media_Network
 
 
-                                                             # Social Shout version 1.1
-
+                                                             SOCIAL SHOUT
+                                                              version 1.1
+ 
 Social Shout is a Web App built on MERN Stack. It's facebook-clone App & enables users to share their moments with their friends, family, colleagues etc. Besides, users can also search, follow/unfollow & chat with people online in realtime with help of Socket io.
 
 # Features:
