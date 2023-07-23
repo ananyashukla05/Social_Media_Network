@@ -7,7 +7,7 @@
 Social Shout is a Web App built on MERN Stack. It's facebook-clone App & enables users to share their moments with their friends, family, colleagues etc. Besides, users can also search, follow/unfollow & chat with people online in realtime with help of Socket io.
 
 # Features:
-User SignUp , with Welcome Email from usoldevs@gmail.com
+User SignUp ,
 User Login , with Email as username
 Realtime private messaging with online users
 Share your Clicks & story with the community
